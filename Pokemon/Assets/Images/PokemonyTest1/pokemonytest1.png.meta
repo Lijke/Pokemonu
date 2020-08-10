@@ -1,0 +1,1999 @@
+fileFormatVersion: 2
+guid: ecacd1ff6f51ce149bfdfbbaf7eeeaab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7131523300898787262
+    second: pokemonytest1_0
+  - first:
+      213: -4428520155913968587
+    second: pokemonytest1_1
+  - first:
+      213: -1966514438007572628
+    second: pokemonytest1_2
+  - first:
+      213: -4893696349933083559
+    second: pokemonytest1_3
+  - first:
+      213: -3228584884447510069
+    second: pokemonytest1_4
+  - first:
+      213: -7443690646629944625
+    second: pokemonytest1_5
+  - first:
+      213: -6833505181143654012
+    second: pokemonytest1_6
+  - first:
+      213: -3780626776834045755
+    second: pokemonytest1_7
+  - first:
+      213: -8398764708702049644
+    second: pokemonytest1_8
+  - first:
+      213: -8201368966976522878
+    second: pokemonytest1_9
+  - first:
+      213: 6426329956247242551
+    second: pokemonytest1_10
+  - first:
+      213: -2957536854661301924
+    second: pokemonytest1_11
+  - first:
+      213: -2130854566544733326
+    second: pokemonytest1_12
+  - first:
+      213: -1828268285778841970
+    second: pokemonytest1_13
+  - first:
+      213: -1476184140461786464
+    second: pokemonytest1_14
+  - first:
+      213: -6638335958885639315
+    second: pokemonytest1_15
+  - first:
+      213: 529101998218204073
+    second: pokemonytest1_16
+  - first:
+      213: -4301173514891041334
+    second: pokemonytest1_17
+  - first:
+      213: 8554621206239734244
+    second: pokemonytest1_18
+  - first:
+      213: 7495571451470045189
+    second: pokemonytest1_19
+  - first:
+      213: -2173535439026967827
+    second: pokemonytest1_20
+  - first:
+      213: 4993883923017219555
+    second: pokemonytest1_21
+  - first:
+      213: -4921390938250511743
+    second: pokemonytest1_22
+  - first:
+      213: 5305513810214578970
+    second: pokemonytest1_23
+  - first:
+      213: -8535147588437191270
+    second: pokemonytest1_24
+  - first:
+      213: 3786541453685986700
+    second: pokemonytest1_25
+  - first:
+      213: -7466255436315498334
+    second: pokemonytest1_26
+  - first:
+      213: 5794764664069480403
+    second: pokemonytest1_27
+  - first:
+      213: 608682806156772359
+    second: pokemonytest1_28
+  - first:
+      213: 6525672285946827432
+    second: pokemonytest1_29
+  - first:
+      213: -5870363315277072093
+    second: pokemonytest1_30
+  - first:
+      213: -3550815921652512891
+    second: pokemonytest1_31
+  - first:
+      213: -8168778112077756601
+    second: pokemonytest1_32
+  - first:
+      213: 9111841830220171205
+    second: pokemonytest1_33
+  - first:
+      213: 5725873321168398450
+    second: pokemonytest1_34
+  - first:
+      213: 7938566721585227186
+    second: pokemonytest1_35
+  - first:
+      213: -1627869058846890044
+    second: pokemonytest1_36
+  - first:
+      213: -3550502624949877553
+    second: pokemonytest1_37
+  - first:
+      213: -5372877137962411596
+    second: pokemonytest1_38
+  - first:
+      213: -2502005666092357559
+    second: pokemonytest1_39
+  - first:
+      213: -765417319776722286
+    second: pokemonytest1_40
+  - first:
+      213: 2353834609411350151
+    second: pokemonytest1_41
+  - first:
+      213: -6020322909831243941
+    second: pokemonytest1_42
+  - first:
+      213: -5036126047005388337
+    second: pokemonytest1_43
+  - first:
+      213: 3428474064355475274
+    second: pokemonytest1_44
+  - first:
+      213: 2941346816271327201
+    second: pokemonytest1_45
+  - first:
+      213: -1326270087974817875
+    second: pokemonytest1_46
+  - first:
+      213: 1265428551251099575
+    second: pokemonytest1_47
+  - first:
+      213: 2658560827653679331
+    second: pokemonytest1_48
+  - first:
+      213: -491812373997760969
+    second: pokemonytest1_49
+  - first:
+      213: -6456270925474330161
+    second: pokemonytest1_50
+  - first:
+      213: -789127942243903297
+    second: pokemonytest1_51
+  - first:
+      213: 5783294161617825372
+    second: pokemonytest1_52
+  - first:
+      213: -6908970074315873776
+    second: pokemonytest1_53
+  - first:
+      213: 1179569552713165467
+    second: pokemonytest1_54
+  - first:
+      213: 2343415349578856772
+    second: pokemonytest1_55
+  - first:
+      213: 3688622618205877341
+    second: pokemonytest1_56
+  - first:
+      213: 4479264907921255770
+    second: pokemonytest1_57
+  - first:
+      213: -5422786497675251948
+    second: pokemonytest1_58
+  - first:
+      213: -3449840104419317889
+    second: pokemonytest1_59
+  - first:
+      213: -904317378125754962
+    second: pokemonytest1_60
+  - first:
+      213: 4926691528754648356
+    second: pokemonytest1_61
+  - first:
+      213: -1819989724264879613
+    second: pokemonytest1_62
+  - first:
+      213: -6120446664395318331
+    second: pokemonytest1_63
+  - first:
+      213: 6448702354926545902
+    second: pokemonytest1_64
+  - first:
+      213: 5407458727572335079
+    second: pokemonytest1_65
+  - first:
+      213: 5786482480447309998
+    second: pokemonytest1_66
+  - first:
+      213: -188308451655294965
+    second: pokemonytest1_67
+  - first:
+      213: 6105215671515780055
+    second: pokemonytest1_68
+  - first:
+      213: 981188035611414849
+    second: pokemonytest1_69
+  - first:
+      213: 2951774378314737083
+    second: pokemonytest1_70
+  - first:
+      213: -5335369547471983417
+    second: pokemonytest1_71
+  - first:
+      213: -2506048865091079546
+    second: pokemonytest1_72
+  - first:
+      213: -1611933359701064981
+    second: pokemonytest1_73
+  - first:
+      213: -6197640890415025815
+    second: pokemonytest1_74
+  - first:
+      213: 8868758263730659013
+    second: pokemonytest1_75
+  - first:
+      213: -3154912212563508297
+    second: pokemonytest1_76
+  - first:
+      213: 7457009729212679601
+    second: pokemonytest1_77
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemonytest1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 121
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 70, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b18e975db70d90800000000000000
+      internalID: -7131523300898787262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 739
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534271aa16cba82c0800000000000000
+      internalID: -4428520155913968587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 785
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67b1e4a98985b4e0800000000000000
+      internalID: -1966514438007572628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 794
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ec9ff819161cb0800000000000000
+      internalID: -4893696349933083559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 793
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc18f434723c133d0800000000000000
+      internalID: -3228584884447510069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 794
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc279b59bc2b2b890800000000000000
+      internalID: -7443690646629944625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 736
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48124234e338a21a0800000000000000
+      internalID: -6833505181143654012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 736
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c80a722af3888bc0800000000000000
+      internalID: -3780626776834045755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_8
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 795
+        width: 64
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a2ab9fef7917b80800000000000000
+      internalID: -8398764708702049644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 795
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285b3739062ee2e80800000000000000
+      internalID: -8201368966976522878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_10
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 794
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737819b0c09ee2950800000000000000
+      internalID: 6426329956247242551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_11
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 740
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5979cf76e7b4f6d0800000000000000
+      internalID: -2957536854661301924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_12
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 740
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b051dbf0fad62e0800000000000000
+      internalID: -2130854566544733326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_13
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e2a004eafa0a6e0800000000000000
+      internalID: -1828268285778841970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_14
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab5bc685a838be0800000000000000
+      internalID: -1476184140461786464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_15
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5be6ed94efd3a0800000000000000
+      internalID: -6638335958885639315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_16
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 792
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3debdc67fb75700800000000000000
+      internalID: 529101998218204073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_17
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 790
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5e99f0a792f44c0800000000000000
+      internalID: -4301173514891041334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_18
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e961f9a9ae18b670800000000000000
+      internalID: 8554621206239734244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_19
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5006e69958e950860800000000000000
+      internalID: 7495571451470045189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_20
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 791
+        width: 93
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea231ab80d06d1e0800000000000000
+      internalID: -2173535439026967827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_21
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 792
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb9f028f6dd4540800000000000000
+      internalID: 4993883923017219555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_22
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 795
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a70cc2405b3bbb0800000000000000
+      internalID: -4921390938250511743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be4c853b8f0a940800000000000000
+      internalID: 5305513810214578970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 751
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a955bad4d701d8980800000000000000
+      internalID: -8535147588437191270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 745
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859e32e36f7c8430800000000000000
+      internalID: 3786541453685986700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 739
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8e5141d38826890800000000000000
+      internalID: -7466255436315498334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 748
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfd8de82c32b6050800000000000000
+      internalID: 5794764664069480403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_28
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 748
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704ccd989c9727800800000000000000
+      internalID: 608682806156772359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_29
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 744
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d87c9e58df8a50800000000000000
+      internalID: 6525672285946827432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_30
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 744
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329fc62daa7488ea0800000000000000
+      internalID: -5870363315277072093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_31
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 747
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c9177bb7f8bec0800000000000000
+      internalID: -3550815921652512891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_32
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 747
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7478e9c469ba2ae80800000000000000
+      internalID: -8168778112077756601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_33
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 744
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c781d33ed3c37e70800000000000000
+      internalID: 9111841830220171205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_34
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 744
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e029d273667f40800000000000000
+      internalID: 5725873321168398450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_35
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 751
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b523d97f547b2e60800000000000000
+      internalID: 7938566721585227186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_36
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 751
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e49e37b5a869e0800000000000000
+      internalID: -1627869058846890044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_37
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 755
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc445c98ca41abec0800000000000000
+      internalID: -3550502624949877553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_38
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 755
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9dee1b5b4bf65b0800000000000000
+      internalID: -5372877137962411596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_39
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 744
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ec865a17174dd0800000000000000
+      internalID: -2502005666092357559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_40
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 744
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e6c5c001b065f0800000000000000
+      internalID: -765417319776722286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_41
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 752
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78edbf92b108aa020800000000000000
+      internalID: 2353834609411350151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_42
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 751
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57dc56e534837ca0800000000000000
+      internalID: -6020322909831243941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_43
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 749
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d624fa061c1ab0800000000000000
+      internalID: -5036126047005388337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_44
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 749
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3c872ff2649f20800000000000000
+      internalID: 3428474064355475274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_45
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 744
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef14117853c1d820800000000000000
+      internalID: 2941346816271327201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_46
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 744
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe802c164289de0800000000000000
+      internalID: -1326270087974817875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_47
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 735
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf75f51094bf8110800000000000000
+      internalID: 1265428551251099575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 678
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e012bcfa15e420800000000000000
+      internalID: 2658560827653679331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 678
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ec8b7604bbc29f0800000000000000
+      internalID: -491812373997760969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_50
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 672
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc98b61dcc7b666a0800000000000000
+      internalID: -6456270925474330161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 672
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8973841547c05f0800000000000000
+      internalID: -789127942243903297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 666
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e22d61663624050800000000000000
+      internalID: 5783294161617825372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 666
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012299c92586e10a0800000000000000
+      internalID: -6908970074315873776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_54
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 679
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa551324cae5010800000000000000
+      internalID: 1179569552713165467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_55
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 679
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44978d038db758020800000000000000
+      internalID: 2343415349578856772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_56
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 676
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f1a46abe903330800000000000000
+      internalID: 3688622618205877341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_57
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 676
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de48b93bb892e30800000000000000
+      internalID: 4479264907921255770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_58
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 677
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f284959646eb4b0800000000000000
+      internalID: -5422786497675251948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_59
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 677
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77a03cf3b4bf10d0800000000000000
+      internalID: -3449840104419317889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_60
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 665
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead0a98c2283373f0800000000000000
+      internalID: -904317378125754962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_61
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 665
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425d859b7df1f5440800000000000000
+      internalID: 4926691528754648356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_62
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 680
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa45e0df81eb6e0800000000000000
+      internalID: -1819989724264879613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_63
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 680
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1efdaf2ecf0ba0800000000000000
+      internalID: -6120446664395318331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_64
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 668
+        width: 53
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4441747, y: 0.48724785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb2f9700a46e7950800000000000000
+      internalID: 6448702354926545902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_65
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 668
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e88210172b0b40800000000000000
+      internalID: 5407458727572335079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_66
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 674
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8451a6827bd4050800000000000000
+      internalID: 5786482480447309998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_67
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 674
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e1eef57ef26df0800000000000000
+      internalID: -188308451655294965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_68
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 665
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d398d17e451ab450800000000000000
+      internalID: 6105215671515780055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_69
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 665
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1415b70e151ed9d00800000000000000
+      internalID: 981188035611414849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_70
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 676
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5ac8c682fc6f820800000000000000
+      internalID: 2951774378314737083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_71
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 676
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccee712aa5f4f5b0800000000000000
+      internalID: -5335369547471983417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_72
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682b976b5d9b83dd0800000000000000
+      internalID: -2506048865091079546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_73
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be28a65562341a9e0800000000000000
+      internalID: -1611933359701064981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_74
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 681
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617069527e8df9a0800000000000000
+      internalID: -6197640890415025815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_75
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 681
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced974f6a8241b70800000000000000
+      internalID: 8868758263730659013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_76
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 675
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34c90ee008734d0800000000000000
+      internalID: -3154912212563508297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonytest1_77
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 676
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58a5cf6de9c7760800000000000000
+      internalID: 7457009729212679601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

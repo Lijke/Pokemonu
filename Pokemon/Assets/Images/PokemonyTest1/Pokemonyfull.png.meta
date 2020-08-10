@@ -1,0 +1,7903 @@
+fileFormatVersion: 2
+guid: 1ed2514a76794394f89960cf52ecdb30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4748187133951326604
+    second: Pokemonyfull_0
+  - first:
+      213: 2514306533427102164
+    second: Pokemonyfull_1
+  - first:
+      213: 6680531096963463979
+    second: Pokemonyfull_2
+  - first:
+      213: 7037624697397398246
+    second: Pokemonyfull_3
+  - first:
+      213: -2688528442391714933
+    second: Pokemonyfull_4
+  - first:
+      213: -3632760066610183600
+    second: Pokemonyfull_5
+  - first:
+      213: 2189020645096886311
+    second: Pokemonyfull_6
+  - first:
+      213: 8489715392302468601
+    second: Pokemonyfull_7
+  - first:
+      213: -1766183621611997016
+    second: Pokemonyfull_8
+  - first:
+      213: -4209843926511863389
+    second: Pokemonyfull_9
+  - first:
+      213: -1497355237730577180
+    second: Pokemonyfull_10
+  - first:
+      213: -1121623283035797123
+    second: Pokemonyfull_11
+  - first:
+      213: 2124780490539680848
+    second: Pokemonyfull_12
+  - first:
+      213: -2259059427677082799
+    second: Pokemonyfull_13
+  - first:
+      213: 6292461753085391404
+    second: Pokemonyfull_14
+  - first:
+      213: -5167948412806404629
+    second: Pokemonyfull_15
+  - first:
+      213: -3502152120054239181
+    second: Pokemonyfull_16
+  - first:
+      213: 7990905835563390600
+    second: Pokemonyfull_17
+  - first:
+      213: 8358439720438045209
+    second: Pokemonyfull_18
+  - first:
+      213: 5889130315301962157
+    second: Pokemonyfull_19
+  - first:
+      213: 2121147107334861960
+    second: Pokemonyfull_20
+  - first:
+      213: 9145794131894370321
+    second: Pokemonyfull_21
+  - first:
+      213: 3584775242492721543
+    second: Pokemonyfull_22
+  - first:
+      213: -3573062743013079194
+    second: Pokemonyfull_23
+  - first:
+      213: -4808924240476191997
+    second: Pokemonyfull_24
+  - first:
+      213: -3346933183442527265
+    second: Pokemonyfull_25
+  - first:
+      213: -8297037400257853296
+    second: Pokemonyfull_26
+  - first:
+      213: -3919020787979096656
+    second: Pokemonyfull_27
+  - first:
+      213: -2742502569180335466
+    second: Pokemonyfull_28
+  - first:
+      213: 5789616470294595787
+    second: Pokemonyfull_29
+  - first:
+      213: -2317501348832069811
+    second: Pokemonyfull_30
+  - first:
+      213: -4719440807183985711
+    second: Pokemonyfull_31
+  - first:
+      213: -7211493181771546024
+    second: Pokemonyfull_32
+  - first:
+      213: -1396470591793223006
+    second: Pokemonyfull_33
+  - first:
+      213: -583929290917479062
+    second: Pokemonyfull_34
+  - first:
+      213: 3916313545003900317
+    second: Pokemonyfull_35
+  - first:
+      213: -155193115871213716
+    second: Pokemonyfull_36
+  - first:
+      213: 8902945135372329868
+    second: Pokemonyfull_37
+  - first:
+      213: 6968062623662561335
+    second: Pokemonyfull_38
+  - first:
+      213: -5151806587117138597
+    second: Pokemonyfull_39
+  - first:
+      213: 4700894367586622355
+    second: Pokemonyfull_40
+  - first:
+      213: -7792248114374680381
+    second: Pokemonyfull_41
+  - first:
+      213: -5967617241312352130
+    second: Pokemonyfull_42
+  - first:
+      213: -2172535897420594607
+    second: Pokemonyfull_43
+  - first:
+      213: -5457205426928746598
+    second: Pokemonyfull_44
+  - first:
+      213: 7824885867494945450
+    second: Pokemonyfull_45
+  - first:
+      213: 6060451631049880325
+    second: Pokemonyfull_46
+  - first:
+      213: -548297336403825160
+    second: Pokemonyfull_47
+  - first:
+      213: 479274087789258173
+    second: Pokemonyfull_48
+  - first:
+      213: 5341037120633654903
+    second: Pokemonyfull_49
+  - first:
+      213: -5696109628439837585
+    second: Pokemonyfull_50
+  - first:
+      213: -8823465183827420254
+    second: Pokemonyfull_51
+  - first:
+      213: 112925863688893738
+    second: Pokemonyfull_52
+  - first:
+      213: 7489173858678341768
+    second: Pokemonyfull_53
+  - first:
+      213: 4354237028248121580
+    second: Pokemonyfull_54
+  - first:
+      213: -5597546687231126575
+    second: Pokemonyfull_55
+  - first:
+      213: -5380069447338913919
+    second: Pokemonyfull_56
+  - first:
+      213: -3868587023141411829
+    second: Pokemonyfull_57
+  - first:
+      213: -5631487265400899064
+    second: Pokemonyfull_58
+  - first:
+      213: 751623057844587672
+    second: Pokemonyfull_59
+  - first:
+      213: 3645550051322651989
+    second: Pokemonyfull_60
+  - first:
+      213: 2962639221212906852
+    second: Pokemonyfull_61
+  - first:
+      213: 1437591757779202627
+    second: Pokemonyfull_62
+  - first:
+      213: -7017431778237256787
+    second: Pokemonyfull_63
+  - first:
+      213: 4171272096368887930
+    second: Pokemonyfull_64
+  - first:
+      213: -5289175404161344588
+    second: Pokemonyfull_65
+  - first:
+      213: 1836592577107658297
+    second: Pokemonyfull_66
+  - first:
+      213: 9675885341489574
+    second: Pokemonyfull_67
+  - first:
+      213: -4872464574304452268
+    second: Pokemonyfull_68
+  - first:
+      213: 7279055449900688802
+    second: Pokemonyfull_69
+  - first:
+      213: 8831162703163503959
+    second: Pokemonyfull_70
+  - first:
+      213: -2109645247464878447
+    second: Pokemonyfull_71
+  - first:
+      213: -387125717068996297
+    second: Pokemonyfull_72
+  - first:
+      213: 7846458478515607087
+    second: Pokemonyfull_73
+  - first:
+      213: -5568544079305327469
+    second: Pokemonyfull_74
+  - first:
+      213: 1516107254171918058
+    second: Pokemonyfull_75
+  - first:
+      213: 253146799057367901
+    second: Pokemonyfull_76
+  - first:
+      213: -2461347290082953480
+    second: Pokemonyfull_77
+  - first:
+      213: -6239742865333760830
+    second: Pokemonyfull_78
+  - first:
+      213: -3886014061571539148
+    second: Pokemonyfull_79
+  - first:
+      213: -1118920231938343966
+    second: Pokemonyfull_80
+  - first:
+      213: -4081623904934944891
+    second: Pokemonyfull_81
+  - first:
+      213: -5520084571952334173
+    second: Pokemonyfull_82
+  - first:
+      213: -5067580910055402155
+    second: Pokemonyfull_83
+  - first:
+      213: -4992000682302482457
+    second: Pokemonyfull_84
+  - first:
+      213: 8630162200931152057
+    second: Pokemonyfull_85
+  - first:
+      213: 4682346315613146931
+    second: Pokemonyfull_86
+  - first:
+      213: -4041275218584672350
+    second: Pokemonyfull_87
+  - first:
+      213: 2920098776457777732
+    second: Pokemonyfull_88
+  - first:
+      213: -9034489163582591630
+    second: Pokemonyfull_89
+  - first:
+      213: -4378897385754538393
+    second: Pokemonyfull_90
+  - first:
+      213: 4974251269182182673
+    second: Pokemonyfull_91
+  - first:
+      213: -6619788981993329249
+    second: Pokemonyfull_92
+  - first:
+      213: 6469744982562783561
+    second: Pokemonyfull_93
+  - first:
+      213: -1701120806843628780
+    second: Pokemonyfull_94
+  - first:
+      213: -6505137583400067379
+    second: Pokemonyfull_95
+  - first:
+      213: 5412102313414776695
+    second: Pokemonyfull_96
+  - first:
+      213: -6082515955485802456
+    second: Pokemonyfull_97
+  - first:
+      213: -1949038512592138273
+    second: Pokemonyfull_98
+  - first:
+      213: 3041281453234068561
+    second: Pokemonyfull_99
+  - first:
+      213: -8932563795990607042
+    second: Pokemonyfull_100
+  - first:
+      213: 5978123924703949570
+    second: Pokemonyfull_101
+  - first:
+      213: -7096915139718859987
+    second: Pokemonyfull_102
+  - first:
+      213: -3960173809005332067
+    second: Pokemonyfull_103
+  - first:
+      213: 4720877361677800812
+    second: Pokemonyfull_104
+  - first:
+      213: 5296712603230362929
+    second: Pokemonyfull_105
+  - first:
+      213: -5057782374656749819
+    second: Pokemonyfull_106
+  - first:
+      213: -209966046303014056
+    second: Pokemonyfull_107
+  - first:
+      213: -7475437160316846127
+    second: Pokemonyfull_108
+  - first:
+      213: -7469039553552388328
+    second: Pokemonyfull_109
+  - first:
+      213: 2175010984797733889
+    second: Pokemonyfull_110
+  - first:
+      213: -8529449691106009241
+    second: Pokemonyfull_111
+  - first:
+      213: -8075262671333886193
+    second: Pokemonyfull_112
+  - first:
+      213: 7532390206054130979
+    second: Pokemonyfull_113
+  - first:
+      213: -1780152563103936335
+    second: Pokemonyfull_114
+  - first:
+      213: 4372037363140196278
+    second: Pokemonyfull_115
+  - first:
+      213: -1289755940926812549
+    second: Pokemonyfull_116
+  - first:
+      213: -1899556302616212479
+    second: Pokemonyfull_117
+  - first:
+      213: -7229902560661402324
+    second: Pokemonyfull_118
+  - first:
+      213: -6781364678818707484
+    second: Pokemonyfull_119
+  - first:
+      213: 5800724801757646747
+    second: Pokemonyfull_120
+  - first:
+      213: 7849938992989150269
+    second: Pokemonyfull_121
+  - first:
+      213: -4342420043490627842
+    second: Pokemonyfull_122
+  - first:
+      213: 7982621597983571467
+    second: Pokemonyfull_123
+  - first:
+      213: -3467522782229303972
+    second: Pokemonyfull_124
+  - first:
+      213: -4861589168306552737
+    second: Pokemonyfull_125
+  - first:
+      213: -74124565353740496
+    second: Pokemonyfull_126
+  - first:
+      213: 2487189009469190512
+    second: Pokemonyfull_127
+  - first:
+      213: 1647554974689557146
+    second: Pokemonyfull_128
+  - first:
+      213: -4070550452532443013
+    second: Pokemonyfull_129
+  - first:
+      213: -5042718495880340095
+    second: Pokemonyfull_130
+  - first:
+      213: 8168215103570253625
+    second: Pokemonyfull_131
+  - first:
+      213: 7916200778917358491
+    second: Pokemonyfull_132
+  - first:
+      213: 4592800143402413834
+    second: Pokemonyfull_133
+  - first:
+      213: 7658879654305391440
+    second: Pokemonyfull_134
+  - first:
+      213: -4723930518909156680
+    second: Pokemonyfull_135
+  - first:
+      213: -4283653610164988793
+    second: Pokemonyfull_136
+  - first:
+      213: -182273727483132301
+    second: Pokemonyfull_137
+  - first:
+      213: -4135906822550100778
+    second: Pokemonyfull_138
+  - first:
+      213: -8499443397932426236
+    second: Pokemonyfull_139
+  - first:
+      213: 5354345576622446084
+    second: Pokemonyfull_140
+  - first:
+      213: 8549646689206707482
+    second: Pokemonyfull_141
+  - first:
+      213: 6893471382350183459
+    second: Pokemonyfull_142
+  - first:
+      213: 3389145870981431058
+    second: Pokemonyfull_143
+  - first:
+      213: -7423541942846316920
+    second: Pokemonyfull_144
+  - first:
+      213: 6070927002482957966
+    second: Pokemonyfull_145
+  - first:
+      213: -4099437927684736939
+    second: Pokemonyfull_146
+  - first:
+      213: -6795516337607224847
+    second: Pokemonyfull_147
+  - first:
+      213: -4263775846669138497
+    second: Pokemonyfull_148
+  - first:
+      213: -555239998721316871
+    second: Pokemonyfull_149
+  - first:
+      213: 964311154680568575
+    second: Pokemonyfull_150
+  - first:
+      213: 4376927598366154335
+    second: Pokemonyfull_151
+  - first:
+      213: -5905992860670856931
+    second: Pokemonyfull_152
+  - first:
+      213: -1423010523788009023
+    second: Pokemonyfull_153
+  - first:
+      213: 5317743360475753999
+    second: Pokemonyfull_154
+  - first:
+      213: -877830470311891821
+    second: Pokemonyfull_155
+  - first:
+      213: -7921396515682230777
+    second: Pokemonyfull_156
+  - first:
+      213: -6133119736521379539
+    second: Pokemonyfull_157
+  - first:
+      213: 4291484135684852095
+    second: Pokemonyfull_158
+  - first:
+      213: -5159553957611690688
+    second: Pokemonyfull_159
+  - first:
+      213: 8119842613566533395
+    second: Pokemonyfull_160
+  - first:
+      213: 7112127277050119622
+    second: Pokemonyfull_161
+  - first:
+      213: -796440608704318053
+    second: Pokemonyfull_162
+  - first:
+      213: 4696950332282631034
+    second: Pokemonyfull_163
+  - first:
+      213: 5790590075965474825
+    second: Pokemonyfull_164
+  - first:
+      213: -1936939376100008917
+    second: Pokemonyfull_165
+  - first:
+      213: 5847356280069475745
+    second: Pokemonyfull_166
+  - first:
+      213: 4153149740108442687
+    second: Pokemonyfull_167
+  - first:
+      213: 1371631184853642519
+    second: Pokemonyfull_168
+  - first:
+      213: 5135379130170237377
+    second: Pokemonyfull_169
+  - first:
+      213: 7840140206669473238
+    second: Pokemonyfull_170
+  - first:
+      213: -6445141866438871473
+    second: Pokemonyfull_171
+  - first:
+      213: -6534655160847024424
+    second: Pokemonyfull_172
+  - first:
+      213: 2759028466590696865
+    second: Pokemonyfull_173
+  - first:
+      213: -4096162442412271998
+    second: Pokemonyfull_174
+  - first:
+      213: -7635015881170900937
+    second: Pokemonyfull_175
+  - first:
+      213: 3098749588828417634
+    second: Pokemonyfull_176
+  - first:
+      213: 7370839986415592645
+    second: Pokemonyfull_177
+  - first:
+      213: 6326397554965947471
+    second: Pokemonyfull_178
+  - first:
+      213: -6889881993851332826
+    second: Pokemonyfull_179
+  - first:
+      213: 8095409740397324392
+    second: Pokemonyfull_180
+  - first:
+      213: 6525528965494694148
+    second: Pokemonyfull_181
+  - first:
+      213: -6641861797158710711
+    second: Pokemonyfull_182
+  - first:
+      213: 3327363482648791252
+    second: Pokemonyfull_183
+  - first:
+      213: 7166455875646415907
+    second: Pokemonyfull_184
+  - first:
+      213: 7534037384352534098
+    second: Pokemonyfull_185
+  - first:
+      213: -456306144834219574
+    second: Pokemonyfull_186
+  - first:
+      213: -6164525138060929608
+    second: Pokemonyfull_187
+  - first:
+      213: -3405473802831787031
+    second: Pokemonyfull_188
+  - first:
+      213: 1734553857875611842
+    second: Pokemonyfull_189
+  - first:
+      213: 6758636789348427418
+    second: Pokemonyfull_190
+  - first:
+      213: -5631081699371699757
+    second: Pokemonyfull_191
+  - first:
+      213: 1353691845317997792
+    second: Pokemonyfull_192
+  - first:
+      213: -1155343496197099889
+    second: Pokemonyfull_193
+  - first:
+      213: 229033777466802924
+    second: Pokemonyfull_194
+  - first:
+      213: -3714099113862167052
+    second: Pokemonyfull_195
+  - first:
+      213: 6744402226839107015
+    second: Pokemonyfull_196
+  - first:
+      213: 7787744084489244634
+    second: Pokemonyfull_197
+  - first:
+      213: 8211246887476780335
+    second: Pokemonyfull_198
+  - first:
+      213: 1534899914562863058
+    second: Pokemonyfull_199
+  - first:
+      213: -375197900453484509
+    second: Pokemonyfull_200
+  - first:
+      213: 3680192118948174684
+    second: Pokemonyfull_201
+  - first:
+      213: -1353007796546618381
+    second: Pokemonyfull_202
+  - first:
+      213: -5159432091695040705
+    second: Pokemonyfull_203
+  - first:
+      213: -8492866471418494461
+    second: Pokemonyfull_204
+  - first:
+      213: -9135118538116534019
+    second: Pokemonyfull_205
+  - first:
+      213: 2926859412351911769
+    second: Pokemonyfull_206
+  - first:
+      213: -1018625809038639326
+    second: Pokemonyfull_207
+  - first:
+      213: -6587001798056085534
+    second: Pokemonyfull_208
+  - first:
+      213: 5043690638756077065
+    second: Pokemonyfull_209
+  - first:
+      213: 2742956510964370966
+    second: Pokemonyfull_210
+  - first:
+      213: 8751575629959506842
+    second: Pokemonyfull_211
+  - first:
+      213: -7751526985912760454
+    second: Pokemonyfull_212
+  - first:
+      213: 2176536011786239914
+    second: Pokemonyfull_213
+  - first:
+      213: -5497126209602331339
+    second: Pokemonyfull_214
+  - first:
+      213: 6921906370711807169
+    second: Pokemonyfull_215
+  - first:
+      213: -8835337926871226303
+    second: Pokemonyfull_216
+  - first:
+      213: 2294986699925293621
+    second: Pokemonyfull_217
+  - first:
+      213: 259126695021915981
+    second: Pokemonyfull_218
+  - first:
+      213: 8682691400053381972
+    second: Pokemonyfull_219
+  - first:
+      213: 503463820174419198
+    second: Pokemonyfull_220
+  - first:
+      213: -6005456050350368138
+    second: Pokemonyfull_221
+  - first:
+      213: -3818742829035031948
+    second: Pokemonyfull_222
+  - first:
+      213: -7038283068228685636
+    second: Pokemonyfull_223
+  - first:
+      213: 2925176454726746477
+    second: Pokemonyfull_224
+  - first:
+      213: 831097323037689743
+    second: Pokemonyfull_225
+  - first:
+      213: -633003729968964430
+    second: Pokemonyfull_226
+  - first:
+      213: 2893214073727856977
+    second: Pokemonyfull_227
+  - first:
+      213: -4974754369466231009
+    second: Pokemonyfull_228
+  - first:
+      213: 3293502674302365056
+    second: Pokemonyfull_229
+  - first:
+      213: 6364462944444995314
+    second: Pokemonyfull_230
+  - first:
+      213: 1826977253062381204
+    second: Pokemonyfull_231
+  - first:
+      213: -5322547944428351464
+    second: Pokemonyfull_232
+  - first:
+      213: 8120560122438622493
+    second: Pokemonyfull_233
+  - first:
+      213: 1488609286266521637
+    second: Pokemonyfull_234
+  - first:
+      213: -3957641580329441305
+    second: Pokemonyfull_235
+  - first:
+      213: 4231051090471352916
+    second: Pokemonyfull_236
+  - first:
+      213: 6789939160595906070
+    second: Pokemonyfull_237
+  - first:
+      213: 523486878475441568
+    second: Pokemonyfull_238
+  - first:
+      213: -5468649672959121948
+    second: Pokemonyfull_239
+  - first:
+      213: -8985637222786905431
+    second: Pokemonyfull_240
+  - first:
+      213: -4059403673664853020
+    second: Pokemonyfull_241
+  - first:
+      213: -3567706642459293260
+    second: Pokemonyfull_242
+  - first:
+      213: 7189329586279864466
+    second: Pokemonyfull_243
+  - first:
+      213: 2983281096787991971
+    second: Pokemonyfull_244
+  - first:
+      213: 6768650622987470723
+    second: Pokemonyfull_245
+  - first:
+      213: -5243187316044075156
+    second: Pokemonyfull_246
+  - first:
+      213: 5970398421240717854
+    second: Pokemonyfull_247
+  - first:
+      213: 6499963651757488452
+    second: Pokemonyfull_248
+  - first:
+      213: 420647846497890229
+    second: Pokemonyfull_249
+  - first:
+      213: 5407819101811824578
+    second: Pokemonyfull_250
+  - first:
+      213: -8965964689493769997
+    second: Pokemonyfull_251
+  - first:
+      213: 3198353041595316578
+    second: Pokemonyfull_252
+  - first:
+      213: 1188540590603128576
+    second: Pokemonyfull_253
+  - first:
+      213: -7335603605245989847
+    second: Pokemonyfull_254
+  - first:
+      213: -1153486258550609067
+    second: Pokemonyfull_255
+  - first:
+      213: 6896935663327306610
+    second: Pokemonyfull_256
+  - first:
+      213: 3361011031057037020
+    second: Pokemonyfull_257
+  - first:
+      213: 8997451489184751023
+    second: Pokemonyfull_258
+  - first:
+      213: -3926786729817803174
+    second: Pokemonyfull_259
+  - first:
+      213: 642193995228032205
+    second: Pokemonyfull_260
+  - first:
+      213: 3204718007928922121
+    second: Pokemonyfull_261
+  - first:
+      213: -6886168357312905744
+    second: Pokemonyfull_262
+  - first:
+      213: 478570025114530748
+    second: Pokemonyfull_263
+  - first:
+      213: -9061434971336027198
+    second: Pokemonyfull_264
+  - first:
+      213: 4572899054154775812
+    second: Pokemonyfull_265
+  - first:
+      213: -5405255687009473010
+    second: Pokemonyfull_266
+  - first:
+      213: -5753733261335447489
+    second: Pokemonyfull_267
+  - first:
+      213: 7060523413530653472
+    second: Pokemonyfull_268
+  - first:
+      213: -2250716895870160616
+    second: Pokemonyfull_269
+  - first:
+      213: -3267727218915524710
+    second: Pokemonyfull_270
+  - first:
+      213: 7441597129044282021
+    second: Pokemonyfull_271
+  - first:
+      213: -4485403979157664454
+    second: Pokemonyfull_272
+  - first:
+      213: -7885356089168746556
+    second: Pokemonyfull_273
+  - first:
+      213: 5905142915742676369
+    second: Pokemonyfull_274
+  - first:
+      213: 991195947572027545
+    second: Pokemonyfull_275
+  - first:
+      213: 2027617732869368444
+    second: Pokemonyfull_276
+  - first:
+      213: 5222073016054224404
+    second: Pokemonyfull_277
+  - first:
+      213: 794516250059704268
+    second: Pokemonyfull_278
+  - first:
+      213: -6879557601007518006
+    second: Pokemonyfull_279
+  - first:
+      213: 4127373782728136674
+    second: Pokemonyfull_280
+  - first:
+      213: -1200173443484481950
+    second: Pokemonyfull_281
+  - first:
+      213: -2110219269853508960
+    second: Pokemonyfull_282
+  - first:
+      213: 7923205110334020131
+    second: Pokemonyfull_283
+  - first:
+      213: -2236096896378447663
+    second: Pokemonyfull_284
+  - first:
+      213: 6463643528487792233
+    second: Pokemonyfull_285
+  - first:
+      213: -1976659544597383183
+    second: Pokemonyfull_286
+  - first:
+      213: -7738752323227287881
+    second: Pokemonyfull_287
+  - first:
+      213: 4629673084498163593
+    second: Pokemonyfull_288
+  - first:
+      213: 6914564102542346248
+    second: Pokemonyfull_289
+  - first:
+      213: 5234236848811804763
+    second: Pokemonyfull_290
+  - first:
+      213: 8766559677417372097
+    second: Pokemonyfull_291
+  - first:
+      213: -5147327007013532623
+    second: Pokemonyfull_292
+  - first:
+      213: 8868192893460288310
+    second: Pokemonyfull_293
+  - first:
+      213: 6015807053344411172
+    second: Pokemonyfull_294
+  - first:
+      213: -8654730053991773023
+    second: Pokemonyfull_295
+  - first:
+      213: 2324018073914183095
+    second: Pokemonyfull_296
+  - first:
+      213: -1974695571040081856
+    second: Pokemonyfull_297
+  - first:
+      213: -4181958780117998130
+    second: Pokemonyfull_298
+  - first:
+      213: -3648487464572562284
+    second: Pokemonyfull_299
+  - first:
+      213: -7563091119532459107
+    second: Pokemonyfull_300
+  - first:
+      213: -9155125829595444298
+    second: Pokemonyfull_301
+  - first:
+      213: 2193343298249698565
+    second: Pokemonyfull_302
+  - first:
+      213: 4703523987280845243
+    second: Pokemonyfull_303
+  - first:
+      213: -7272675569357993394
+    second: Pokemonyfull_304
+  - first:
+      213: 2861589313637418929
+    second: Pokemonyfull_305
+  - first:
+      213: 4721076369426459812
+    second: Pokemonyfull_306
+  - first:
+      213: 5205749869075028933
+    second: Pokemonyfull_307
+  - first:
+      213: -1328224754766431425
+    second: Pokemonyfull_308
+  - first:
+      213: 1203606120991346026
+    second: Pokemonyfull_309
+  - first:
+      213: 4860573726066244053
+    second: Pokemonyfull_310
+  - first:
+      213: -7488333070908478498
+    second: Pokemonyfull_311
+  - first:
+      213: 3958276341158675014
+    second: Pokemonyfull_312
+  - first:
+      213: -1908417665063615747
+    second: Pokemonyfull_313
+  - first:
+      213: -5385472303648165408
+    second: Pokemonyfull_314
+  - first:
+      213: -4480890147323662785
+    second: Pokemonyfull_315
+  - first:
+      213: -3825135703015811892
+    second: Pokemonyfull_316
+  - first:
+      213: -1094023776282883496
+    second: Pokemonyfull_317
+  - first:
+      213: 2652593548985041795
+    second: Pokemonyfull_318
+  - first:
+      213: 7059055836660944376
+    second: Pokemonyfull_319
+  - first:
+      213: -1884253150265365098
+    second: Pokemonyfull_320
+  - first:
+      213: 6747220299433217715
+    second: Pokemonyfull_321
+  - first:
+      213: 8138453348815725998
+    second: Pokemonyfull_322
+  - first:
+      213: -5277112665412334133
+    second: Pokemonyfull_323
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pokemonyfull_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 745
+        width: 118
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47640c965fc0b1eb0800000000000000
+      internalID: -4748187133951326604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 787
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1cd55887c94e220800000000000000
+      internalID: 2514306533427102164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 795
+        width: 64
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b357143a306bc50800000000000000
+      internalID: 6680531096963463979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 793
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea43e6106aaaa160800000000000000
+      internalID: 7037624697397398246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 794
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8325b640ad60bad0800000000000000
+      internalID: -2688528442391714933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 736
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c97377f7d59dc0800000000000000
+      internalID: -3632760066610183600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_6
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 736
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7201ff4cda6f06e10800000000000000
+      internalID: 2189020645096886311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 795
+        width: 64
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdca5a3b2781d570800000000000000
+      internalID: 8489715392302468601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_8
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 795
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a834b19a514d77e0800000000000000
+      internalID: -1766183621611997016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_9
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 794
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9bc68e041a395c0800000000000000
+      internalID: -4209843926511863389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_10
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 740
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e49f783853583be0800000000000000
+      internalID: -1497355237730577180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_11
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 740
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7908d211913f60f0800000000000000
+      internalID: -1121623283035797123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_12
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544c4c399cbc7d10800000000000000
+      internalID: 2124780490539680848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_13
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b6fc66b6536a0e0800000000000000
+      internalID: -2259059427677082799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_14
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f26320a0535750800000000000000
+      internalID: 6292461753085391404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_15
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 792
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5612dac42c748b0800000000000000
+      internalID: -5167948412806404629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_16
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 790
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33039c6b33bd56fc0800000000000000
+      internalID: -3502152120054239181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_17
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8861a52158665ee60800000000000000
+      internalID: 7990905835563390600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_18
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 789
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a993d04a42ff370800000000000000
+      internalID: 8358439720438045209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_19
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 791
+        width: 93
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1ce8fd1d46ab150800000000000000
+      internalID: 5889130315301962157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_20
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 792
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ba094e04df6d10800000000000000
+      internalID: 2121147107334861960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_21
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 795
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1108a647e436cee70800000000000000
+      internalID: 9145794131894370321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 735
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789b460171eafb130800000000000000
+      internalID: 3584775242492721543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 751
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667c58abd5ee96ec0800000000000000
+      internalID: -3573062743013079194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 745
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c6aec1e4434db0800000000000000
+      internalID: -4808924240476191997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 739
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbd0f1a00e4d81d0800000000000000
+      internalID: -3346933183442527265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 739
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098008da1700bdc80800000000000000
+      internalID: -8297037400257853296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 766
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd62217b57dc99c0800000000000000
+      internalID: -3919020787979096656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 748
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692f868917ca0f9d0800000000000000
+      internalID: -2742502569180335466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 748
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc809a94189d85050800000000000000
+      internalID: 5789616470294595787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_30
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 744
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4730684dc496dfd0800000000000000
+      internalID: -2317501348832069811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 744
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3d05d279d218eb0800000000000000
+      internalID: -4719440807183985711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_32
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 747
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8520b58c821abeb90800000000000000
+      internalID: -7211493181771546024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_33
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 747
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaa2e4456dbe9ce0800000000000000
+      internalID: -1396470591793223006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_34
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 744
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dfae8576775e7f0800000000000000
+      internalID: -583929290917479062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_35
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 744
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d120f6b6a895630800000000000000
+      internalID: 3916313545003900317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_36
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 751
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6709e0fea4a8ddf0800000000000000
+      internalID: -155193115871213716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_37
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 751
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83e8a84e6d9d8b70800000000000000
+      internalID: 8902945135372329868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_38
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 755
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7385510b90883b060800000000000000
+      internalID: 6968062623662561335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_39
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 755
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d8d57543b1188b0800000000000000
+      internalID: -5151806587117138597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_40
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 744
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b92aa558eec3140800000000000000
+      internalID: 4700894367586622355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_41
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 744
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06df400af5cd390800000000000000
+      internalID: -7792248114374680381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_42
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 752
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a410acb3ce2da0800000000000000
+      internalID: -5967617241312352130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_43
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 752
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1520674ac1a99d1e0800000000000000
+      internalID: -2172535897420594607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_44
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 749
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ff395e39c1444b0800000000000000
+      internalID: -5457205426928746598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_45
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 749
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2b20c0d34979c60800000000000000
+      internalID: 7824885867494945450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_46
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 744
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5033a2716ac0b1450800000000000000
+      internalID: 6060451631049880325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_47
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 744
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd6b504a7e0468f0800000000000000
+      internalID: -548297336403825160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 735
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db56ab85e39b6a600800000000000000
+      internalID: 479274087789258173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 678
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4b8396fc2f1a40800000000000000
+      internalID: 5341037120633654903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 678
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644923e87a53f0b0800000000000000
+      internalID: -5696109628439837585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 672
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab90fdf921cc8580800000000000000
+      internalID: -8823465183827420254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 672
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2571278971319100800000000000000
+      internalID: 112925863688893738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 666
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800aa3f1f3eee760800000000000000
+      internalID: 7489173858678341768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 666
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f498e18b5d6c30800000000000000
+      internalID: 4354237028248121580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_55
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 679
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d39cede1f48152b0800000000000000
+      internalID: -5597546687231126575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_56
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 679
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f8e6ca7572655b0800000000000000
+      internalID: -5380069447338913919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 676
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0468fe5994005ac0800000000000000
+      internalID: -3868587023141411829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_58
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 676
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ab4a44b20f8d1b0800000000000000
+      internalID: -5631487265400899064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_59
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 677
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cc1d7503d4e6a00800000000000000
+      internalID: 751623057844587672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_60
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 677
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5556efbe478979230800000000000000
+      internalID: 3645550051322651989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_61
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 666
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465090acca86d1920800000000000000
+      internalID: 2962639221212906852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_62
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 666
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427576461a53f310800000000000000
+      internalID: 1437591757779202627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_63
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 680
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab61a64af21d9e90800000000000000
+      internalID: -7017431778237256787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_64
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 680
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78019d0fd553e930800000000000000
+      internalID: 4171272096368887930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_65
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 668
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbda304ef21996b0800000000000000
+      internalID: -5289175404161344588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_66
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 668
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9360f9bd733ec7910800000000000000
+      internalID: 1836592577107658297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_67
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 674
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9baac9a20622000800000000000000
+      internalID: 9675885341489574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_68
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 674
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45188ebf847816cb0800000000000000
+      internalID: -4872464574304452268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_69
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 665
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5a3b79d56640560800000000000000
+      internalID: 7279055449900688802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_70
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 665
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7553db360b79e8a70800000000000000
+      internalID: 8831162703163503959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_71
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 676
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec3c623d809b2e0800000000000000
+      internalID: -2109645247464878447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_72
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 676
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7312fae1637a0aaf0800000000000000
+      internalID: -387125717068996297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_73
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2656c4f96834ec60800000000000000
+      internalID: 7846458478515607087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_74
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cb6ecc9ae88b2b0800000000000000
+      internalID: -5568544079305327469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_75
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 681
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee5f46d38b4a0510800000000000000
+      internalID: 1516107254171918058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_76
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 681
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5377d92cab538300800000000000000
+      internalID: 253146799057367901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_77
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 676
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f63cb13ea987ddd0800000000000000
+      internalID: -2461347290082953480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_78
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 676
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccc00e6ceaf769a0800000000000000
+      internalID: -6239742865333760830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 586
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ffadbccca121ac0800000000000000
+      internalID: -3886014061571539148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 575
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb31533afbc870f0800000000000000
+      internalID: -1118920231938343966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_81
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 596
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f1c9f0fa82b57c0800000000000000
+      internalID: -4081623904934944891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_82
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 596
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabaa61458b463b0800000000000000
+      internalID: -5520084571952334173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 592
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d891f2065ca9b0800000000000000
+      internalID: -5067580910055402155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 592
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e75ad404d9d8bab0800000000000000
+      internalID: -4992000682302482457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_85
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 586
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b031841cce74c770800000000000000
+      internalID: 8630162200931152057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_86
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 586
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0b797a290bf040800000000000000
+      internalID: 4682346315613146931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_87
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 600
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7ebaca9918ae7c0800000000000000
+      internalID: -4041275218584672350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_88
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 600
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44291d7ad56468820800000000000000
+      internalID: 2920098776457777732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_89
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 591
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2b85f8fb0f9280800000000000000
+      internalID: -9034489163582591630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_90
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 591
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec63e27080b33c0800000000000000
+      internalID: -4378897385754538393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_91
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 596
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115d323bc27180540800000000000000
+      internalID: 4974251269182182673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_92
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 596
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d2e387ef8c124a0800000000000000
+      internalID: -6619788981993329249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_93
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 587
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941450198c629c950800000000000000
+      internalID: 6469744982562783561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_94
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 587
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134f0c93a76468e0800000000000000
+      internalID: -1701120806843628780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_95
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 600
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce556665db19b5a0800000000000000
+      internalID: -6505137583400067379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_96
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 600
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77758272166ab1b40800000000000000
+      internalID: 5412102313414776695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_97
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 592
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208f9c07ff869ba0800000000000000
+      internalID: -6082515955485802456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_98
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 592
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfc36b9ccf93f4e0800000000000000
+      internalID: -1949038512592138273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_99
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 597
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c100a4e5dc43a20800000000000000
+      internalID: 3041281453234068561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_100
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 597
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b0776ed88290480800000000000000
+      internalID: -8932563795990607042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_101
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 585
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033e3b390096f250800000000000000
+      internalID: 5978123924703949570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_102
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 574
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2337ff0841b28d90800000000000000
+      internalID: -7096915139718859987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_103
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 596
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d997e6117e2aa09c0800000000000000
+      internalID: -3960173809005332067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_104
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 596
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c651dfab2fce38140800000000000000
+      internalID: 4720877361677800812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_105
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 592
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d51e8ac04b18940800000000000000
+      internalID: 5296712603230362929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_106
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 592
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f4a5f3ab52fc9b0800000000000000
+      internalID: -5057782374656749819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_107
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 594
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853373b4efc061df0800000000000000
+      internalID: -209966046303014056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_108
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 594
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df3f8e5289e14890800000000000000
+      internalID: -7475437160316846127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_109
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 533
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fea254914a85890800000000000000
+      internalID: -7469039553552388328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 533
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104017b87f03f2e10800000000000000
+      internalID: 2175010984797733889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_111
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 523
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f9f0862be41a980800000000000000
+      internalID: -8529449691106009241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_112
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 523
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07fb2f8267eeef80800000000000000
+      internalID: -8075262671333886193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_113
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 526
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325ec7debfc688860800000000000000
+      internalID: 7532390206054130979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 526
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0503eeca0ab47e0800000000000000
+      internalID: -1780152563103936335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_115
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 523
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7f4b651d89cac30800000000000000
+      internalID: 4372037363140196278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_116
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 523
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8b1e1ecdd91ee0800000000000000
+      internalID: -1289755940926812549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_117
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 532
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc4b76b9b63a5e0800000000000000
+      internalID: -1899556302616212479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_118
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 532
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d071f3de93aab90800000000000000
+      internalID: -7229902560661402324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_119
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 527
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e741aaf0c0c3e1a0800000000000000
+      internalID: -6781364678818707484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_120
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 527
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f00904970508050800000000000000
+      internalID: 5800724801757646747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_121
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 527
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1b916ce590fc60800000000000000
+      internalID: 7849938992989150269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_122
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 527
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe64324aff9cb3c0800000000000000
+      internalID: -4342420043490627842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_123
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 525
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0efb24bc08f7ce60800000000000000
+      internalID: 7982621597983571467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_124
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 525
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5de5aab662e0efc0800000000000000
+      internalID: -3467522782229303972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_125
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 524
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508333c86a288cb0800000000000000
+      internalID: -4861589168306552737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_126
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 524
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c5fcb918a8fef0800000000000000
+      internalID: -74124565353740496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_127
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 521
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071baa6f935448220800000000000000
+      internalID: 2487189009469190512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_128
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 521
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7c46358a4dd610800000000000000
+      internalID: 1647554974689557146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_129
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 529
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b788f7c1eef7287c0800000000000000
+      internalID: -4070550452532443013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_130
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 529
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d92c6de3aa40ab0800000000000000
+      internalID: -5042718495880340095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_131
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 521
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93719411c545b5170800000000000000
+      internalID: 8168215103570253625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_132
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 521
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b2a06aaaefbdd60800000000000000
+      internalID: 7916200778917358491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_133
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 527
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f2ddf8567ecbf30800000000000000
+      internalID: 4592800143402413834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_134
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 527
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e654977ec94a60800000000000000
+      internalID: 7658879654305391440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_135
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 517
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b20bc4b83a317eb0800000000000000
+      internalID: -4723930518909156680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_136
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 531
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784db41ccb76d84c0800000000000000
+      internalID: -4283653610164988793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_137
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 531
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3764b75b20f687df0800000000000000
+      internalID: -182273727483132301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 463
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d469c968ae4a96c0800000000000000
+      internalID: -4135906822550100778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_139
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 463
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cd2b5f249eb0a80800000000000000
+      internalID: -8499443397932426236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_140
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 459
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d343fee47e4a40800000000000000
+      internalID: 5354345576622446084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_141
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 459
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a249ad5276a670800000000000000
+      internalID: 8549646689206707482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_142
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 463
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cbd46f2b78aaf50800000000000000
+      internalID: 6893471382350183459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_143
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 463
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f74d3963aa80f20800000000000000
+      internalID: 3389145870981431058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_144
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 456
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9e614fe74af890800000000000000
+      internalID: -7423541942846316920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_145
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 456
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed25091f3404450800000000000000
+      internalID: 6070927002482957966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_146
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 453
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558769daceedb17c0800000000000000
+      internalID: -4099437927684736939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_147
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 453
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1de8725e971b1a0800000000000000
+      internalID: -6795516337607224847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_148
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 463
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb54569357604d4c0800000000000000
+      internalID: -4263775846669138497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_149
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 463
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7a027b9246b48f0800000000000000
+      internalID: -555239998721316871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_150
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 458
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa9ea3d2ebe16d00800000000000000
+      internalID: 964311154680568575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_151
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 458
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ed734f578fdbc30800000000000000
+      internalID: 4376927598366154335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_152
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 455
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1178b5d8c2b90ea0800000000000000
+      internalID: -5905992860670856931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_153
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 455
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c129f1d773704ce0800000000000000
+      internalID: -1423010523788009023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_154
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 467
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e69d7696b6cc940800000000000000
+      internalID: 5317743360475753999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_155
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 467
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cab0496d151d3f0800000000000000
+      internalID: -877830470311891821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_156
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 463
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e5ebd96db811290800000000000000
+      internalID: -7921396515682230777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_157
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 463
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b4b32818c2eaa0800000000000000
+      internalID: -6133119736521379539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_158
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 457
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7948ba851a6e8b30800000000000000
+      internalID: 4291484135684852095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_159
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 457
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045281513059568b0800000000000000
+      internalID: -5159553957611690688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_160
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 463
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f66b516d97fa070800000000000000
+      internalID: 8119842613566533395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_161
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 463
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c540f9a31a53b260800000000000000
+      internalID: 7112127277050119622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_162
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 453
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95bb717c7972f4f0800000000000000
+      internalID: -796440608704318053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_163
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 453
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73fb53117bee2140800000000000000
+      internalID: 4696950332282631034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_164
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 470
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90803d58efe4c5050800000000000000
+      internalID: 5790590075965474825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_165
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 470
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c971856eb9e15e0800000000000000
+      internalID: -1936939376100008917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_166
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 463
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adc0bc5e8bf52150800000000000000
+      internalID: 5847356280069475745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_167
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 463
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c6b2e2fa3f2a930800000000000000
+      internalID: 4153149740108442687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_168
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 384
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dac00ab43090310800000000000000
+      internalID: 1371631184853642519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_169
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 384
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c160c84c18844740800000000000000
+      internalID: 5135379130170237377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_170
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 384
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5aac7aaf5cdcc60800000000000000
+      internalID: 7840140206669473238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_171
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 384
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b9ebce914e86a0800000000000000
+      internalID: -6445141866438871473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_172
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de3a08d0cd3055a0800000000000000
+      internalID: -6534655160847024424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_173
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5445cb5c90a4620800000000000000
+      internalID: 2759028466590696865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_174
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 390
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28658b506f18727c0800000000000000
+      internalID: -4096162442412271998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_175
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 390
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738a7541289fa0690800000000000000
+      internalID: -7635015881170900937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_176
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 379
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e610a4558f00b20800000000000000
+      internalID: 3098749588828417634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_177
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 379
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4eb8e4aeb7a4660800000000000000
+      internalID: 7370839986415592645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_178
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 399
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4425abbe01ebc750800000000000000
+      internalID: 6326397554965947471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_179
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 399
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627912ca4d83260a0800000000000000
+      internalID: -6889881993851332826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_180
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 393
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868ae9f744ca85070800000000000000
+      internalID: 8095409740397324392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_181
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 393
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40165d735065f8a50800000000000000
+      internalID: 6525528965494694148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_182
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 388
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9421e15b2ed53d3a0800000000000000
+      internalID: -6641861797158710711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_183
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 388
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d843e5557b2d2e20800000000000000
+      internalID: 3327363482648791252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_184
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 384
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3246a6e36ad547360800000000000000
+      internalID: 7166455875646415907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_185
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 384
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e88d285174e8860800000000000000
+      internalID: 7534037384352534098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_186
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 378
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac114589affdaa9f0800000000000000
+      internalID: -456306144834219574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_187
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 378
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b599e84c05337aa0800000000000000
+      internalID: -6164525138060929608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_188
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 386
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb005a8e935db0d0800000000000000
+      internalID: -3405473802831787031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_189
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 386
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0957e2b8f521810800000000000000
+      internalID: 1734553857875611842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_190
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 384
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96eff2e9508bcd50800000000000000
+      internalID: 6758636789348427418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_191
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 384
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13fb777016ad1b0800000000000000
+      internalID: -5631081699371699757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_192
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 388
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4b587af8749c210800000000000000
+      internalID: 1353691845317997792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_193
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 388
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e2d93263567ffe0800000000000000
+      internalID: -1155343496197099889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_194
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 387
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce28973d101bd2300800000000000000
+      internalID: 229033777466802924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_195
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 387
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f507a9b88ed47cc0800000000000000
+      internalID: -3714099113862167052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_196
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 393
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c53919871ee89d50800000000000000
+      internalID: 6744402226839107015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_197
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 393
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf81adcbff931c60800000000000000
+      internalID: 7787744084489244634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_198
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 303
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd5130a8534f170800000000000000
+      internalID: 8211246887476780335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_199
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 303
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dffb4d075f0d4510800000000000000
+      internalID: 1534899914562863058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_200
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 305
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3286ff65f770bcaf0800000000000000
+      internalID: -375197900453484509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_201
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 305
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1913db3ba21330800000000000000
+      internalID: 3680192118948174684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_202
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 306
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb318cd396293de0800000000000000
+      internalID: -1353007796546618381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_203
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 306
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3734c339d30668b0800000000000000
+      internalID: -5159432091695040705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_204
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 308
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302864ef0f6432a80800000000000000
+      internalID: -8492866471418494461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_205
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 308
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df07a7ae61a893180800000000000000
+      internalID: -9135118538116534019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_206
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 302
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9578ebcd02b4e9820800000000000000
+      internalID: 2926859412351911769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_207
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 302
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ff43d393d1dd1f0800000000000000
+      internalID: -1018625809038639326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_208
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 308
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7f10c93c44694a0800000000000000
+      internalID: -6587001798056085534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_209
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 308
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ed400d9e9cef540800000000000000
+      internalID: 5043690638756077065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_210
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 303
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4066f960f01620800000000000000
+      internalID: 2742956510964370966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_211
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 303
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba3b8eaa7d37970800000000000000
+      internalID: 8751575629959506842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_212
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 313
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c0d1964b0d6490800000000000000
+      internalID: -7751526985912760454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_213
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 313
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf3d5f88fb943e10800000000000000
+      internalID: 2176536011786239914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_214
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 304
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd92f56d846b3b0800000000000000
+      internalID: -5497126209602331339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_215
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 304
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c46aca9b2d8f0060800000000000000
+      internalID: 6921906370711807169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_216
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 318
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ed4697f2926580800000000000000
+      internalID: -8835337926871226303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_217
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 318
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0b458e3e69df10800000000000000
+      internalID: 2294986699925293621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_218
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 313
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f2a903b5a989300800000000000000
+      internalID: 259126695021915981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_219
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 313
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b558253dd1f7870800000000000000
+      internalID: 8682691400053381972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_220
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 308
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4e1ce4da9acf600800000000000000
+      internalID: 503463820174419198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_221
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 308
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a55ac5a8558aca0800000000000000
+      internalID: -6005456050350368138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_222
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 300
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472fbca21a9110bc0800000000000000
+      internalID: -3818742829035031948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_223
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 300
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0359107def25e90800000000000000
+      internalID: -7038283068228685636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_224
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 312
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610351cc70589820800000000000000
+      internalID: 2925176454726746477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_225
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 312
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f878079ac96a88b00800000000000000
+      internalID: 831097323037689743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_226
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 312
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcd3bd167e1737f0800000000000000
+      internalID: -633003729968964430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_227
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 312
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b5b30fd2c62820800000000000000
+      internalID: 2893214073727856977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_228
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f179423224f16fab0800000000000000
+      internalID: -4974754369466231009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_229
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 227
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d67988b3fd4bd20800000000000000
+      internalID: 3293502674302365056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_230
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 227
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6d7cdd35d135850800000000000000
+      internalID: 6364462944444995314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_231
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 227
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8085c12aba5910800000000000000
+      internalID: 1826977253062381204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_232
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 231
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810dc5838d28226b0800000000000000
+      internalID: -5322547944428351464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_233
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 231
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d1823286602b070800000000000000
+      internalID: 8120560122438622493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_234
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 237
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5288345424a98a410800000000000000
+      internalID: 1488609286266521637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_235
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 266
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e52083f1a319c0800000000000000
+      internalID: -3957641580329441305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_236
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 237
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45af21abc86b7ba30800000000000000
+      internalID: 4231051090471352916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_237
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 266
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e35d121b5ba3e50800000000000000
+      internalID: 6789939160595906070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_238
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 230
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a55b1cda8cc34700800000000000000
+      internalID: 523486878475441568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_239
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 230
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5273ab8147b14b0800000000000000
+      internalID: -5468649672959121948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_240
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 232
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4247cd8a9c4380800000000000000
+      internalID: -8985637222786905431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_241
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 232
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb6a4fcdd91aa7c0800000000000000
+      internalID: -4059403673664853020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_242
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 225
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9896116b5fc7ec0800000000000000
+      internalID: -3567706642459293260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_243
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 225
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298da630b21a5c360800000000000000
+      internalID: 7189329586279864466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_244
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 232
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad9f27f95eb66920800000000000000
+      internalID: 2983281096787991971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_245
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 232
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38705e731e31fed50800000000000000
+      internalID: 6768650622987470723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_246
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 231
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6feb586ae47c37b0800000000000000
+      internalID: -5243187316044075156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_247
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 231
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122b994bbd1bd250800000000000000
+      internalID: 5970398421240717854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_248
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 223
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449b4f3c082843a50800000000000000
+      internalID: 6499963651757488452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_249
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 223
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2a0adcf076d500800000000000000
+      internalID: 420647846497890229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_250
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 239
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d01d32de6c0b40800000000000000
+      internalID: 5407819101811824578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_251
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 239
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0470e5e9e729380800000000000000
+      internalID: -8965964689493769997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_252
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 229
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269349e4525d26c20800000000000000
+      internalID: 3198353041595316578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_253
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 229
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4808be5b8e7010800000000000000
+      internalID: 1188540590603128576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_254
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 233
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cec300363b23a90800000000000000
+      internalID: -7335603605245989847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_255
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 233
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bebc9fb5efdffe0800000000000000
+      internalID: -1153486258550609067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_256
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 227
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273e85bb176d6bf50800000000000000
+      internalID: 6896935663327306610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_257
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 227
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6f250b9b5b4ae20800000000000000
+      internalID: 3361011031057037020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_258
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 236
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad9aa8757e5ddc70800000000000000
+      internalID: 8997451489184751023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_259
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 236
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56fd7436404189c0800000000000000
+      internalID: -3926786729817803174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_260
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 251
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca472490889e800800000000000000
+      internalID: 642193995228032205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_261
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 251
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a6e38c02797c20800000000000000
+      internalID: 3204718007928922121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_262
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 234
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd34de0d5a6f60a0800000000000000
+      internalID: -6886168357312905744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_263
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 234
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f91bf6e834a600800000000000000
+      internalID: 478570025114530748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_264
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 153
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d63237e05f3280800000000000000
+      internalID: -9061434971336027198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_265
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 153
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d7d942673367f30800000000000000
+      internalID: 4572899054154775812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_266
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 151
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ee3a7479cacf4b0800000000000000
+      internalID: -5405255687009473010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_267
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 151
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3830c95512a620b0800000000000000
+      internalID: -5753733261335447489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_268
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 145
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023b2d7e2a40cf160800000000000000
+      internalID: 7060523413530653472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_269
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 145
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81170b378e8d3c0e0800000000000000
+      internalID: -2250716895870160616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_270
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f3aa55863b6a2d0800000000000000
+      internalID: -3267727218915524710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_271
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 151
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa404e592dd54760800000000000000
+      internalID: 7441597129044282021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_272
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 147
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d0f2c78d4a0c1c0800000000000000
+      internalID: -4485403979157664454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_273
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 147
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c722a15a66919290800000000000000
+      internalID: -7885356089168746556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_274
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 147
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b1c0f13843f150800000000000000
+      internalID: 5905142915742676369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_275
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 147
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99066d5767f61cd00800000000000000
+      internalID: 991195947572027545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_276
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 147
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a26f3d59b832c10800000000000000
+      internalID: 2027617732869368444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_277
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 147
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41690198db7887840800000000000000
+      internalID: 5222073016054224404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_278
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 148
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78515e150b60b00800000000000000
+      internalID: 794516250059704268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_279
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 148
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acebb14bfc6e680a0800000000000000
+      internalID: -6879557601007518006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_280
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 154
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e755ce6690674930800000000000000
+      internalID: 4127373782728136674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_281
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 154
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2660048ac90285fe0800000000000000
+      internalID: -1200173443484481950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_282
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 143
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa823621cef6b2e0800000000000000
+      internalID: -2110219269853508960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_283
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 143
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad404a111e4fd60800000000000000
+      internalID: 7923205110334020131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_284
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 147
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8520858b9c7f0e0800000000000000
+      internalID: -2236096896378447663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_285
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 147
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e64461b8973b950800000000000000
+      internalID: 6463643528487792233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_286
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 160
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73362fd9e7194e0800000000000000
+      internalID: -1976659544597383183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_287
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 160
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7befe4183cd6a9490800000000000000
+      internalID: -7738752323227287881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_288
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 156
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98733bb2427ef3040800000000000000
+      internalID: 4629673084498163593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_289
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 156
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80844b49a6775ff50800000000000000
+      internalID: 6914564102542346248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_290
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 149
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5800bb8eaeb3a840800000000000000
+      internalID: 5234236848811804763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_291
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 149
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b9b2549319a970800000000000000
+      internalID: 8766559677417372097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_292
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 153
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c0f2cdb550198b0800000000000000
+      internalID: -5147327007013532623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_293
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 153
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633185e6376221b70800000000000000
+      internalID: 8868192893460288310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_294
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 80
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e02e354a07c7350800000000000000
+      internalID: 6015807053344411172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_295
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 80
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4ce0eed834e780800000000000000
+      internalID: -8654730053991773023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_296
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd0e330022904020800000000000000
+      internalID: 2324018073914183095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_297
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 80
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486e9c27d87894e0800000000000000
+      internalID: -1974695571040081856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_298
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 84
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5adbd75a2b6f5c0800000000000000
+      internalID: -4181958780117998130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_299
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 84
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494dfa24bf7fd5dc0800000000000000
+      internalID: -3648487464572562284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_300
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 76
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3b50a2b08a0790800000000000000
+      internalID: -7563091119532459107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_301
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 76
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc5fc509572f080800000000000000
+      internalID: -9155125829595444298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_302
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 89
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d28a2eb12507e10800000000000000
+      internalID: 2193343298249698565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_303
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 89
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb957666526464140800000000000000
+      internalID: 4703523987280845243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_304
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 72
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a41c91a14421b90800000000000000
+      internalID: -7272675569357993394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_305
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 72
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b78964c15866b720800000000000000
+      internalID: 2861589313637418929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_306
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 70
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aca725d1f1a48140800000000000000
+      internalID: 4721076369426459812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_307
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 70
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbd0c7bce98e3840800000000000000
+      internalID: 5205749869075028933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_308
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 74
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b344e6f92319de0800000000000000
+      internalID: -1328224754766431425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_309
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 74
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcc2bd36114b010800000000000000
+      internalID: 1203606120991346026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_310
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 69
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d976ca2d0a347340800000000000000
+      internalID: 4860573726066244053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_311
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 69
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba0b43fb8141890800000000000000
+      internalID: -7488333070908478498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_312
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 73
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64288954c5f9ee630800000000000000
+      internalID: 3958276341158675014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_313
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 73
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df28dceae30f385e0800000000000000
+      internalID: -1908417665063615747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_314
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 75
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1b8592975f245b0800000000000000
+      internalID: -5385472303648165408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_315
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 75
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea93bd62ea0d1c0800000000000000
+      internalID: -4480890147323662785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_316
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 84
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4141438536aeac0800000000000000
+      internalID: -3825135703015811892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_317
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 84
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ac3defb2f31d0f0800000000000000
+      internalID: -1094023776282883496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_318
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 75
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3830fbc57c7efc420800000000000000
+      internalID: 2652593548985041795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_319
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 75
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc2d902edc6f160800000000000000
+      internalID: 7059055836660944376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_320
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 69
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da5873eb9c9d5e0800000000000000
+      internalID: -1884253150265365098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_321
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 69
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be85013d11f2ad50800000000000000
+      internalID: 6747220299433217715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_322
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 69
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5ef3d833891f070800000000000000
+      internalID: 8138453348815725998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pokemonyfull_323
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 69
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd026a7dfde3c6b0800000000000000
+      internalID: -5277112665412334133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
